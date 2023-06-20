@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89016828650",
+    "project_id": "tidogren",
+    "storage_bucket": "tidogren.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89016828650:android:985e51e4f20cae8e2d4d93",
+        "android_client_info": {
+          "package_name": "com.cloffygames.isaretdiliogreniyorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89016828650-b0p4gsjevhursn5hcqpjpkgdcrd3e9t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdfLbYFlddXqwzPFoZrBARxTdhk-NyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89016828650-b0p4gsjevhursn5hcqpjpkgdcrd3e9t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
